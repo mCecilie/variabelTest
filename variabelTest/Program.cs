@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("===MIN LOMMEREGNER===");
+            Console.WriteLine("===MIN TERNING===");
 
             //Først bruger jeg Random klassen
             Random terning = new Random();
