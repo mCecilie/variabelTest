@@ -14,6 +14,12 @@
             int kast2 = terning.Next(1, 7); //Terningen kan vise mellem 1-6
 
             int sum = kast1 + kast2;
+
+            //Her er mit output af terningekastet
+            Console.WriteLine("Første kast: " + kast1);
+            Console.WriteLine("Andet kast: " + kast2);
+            Console.WriteLine("Summen af mit slag: " + sum);
+
         }
     }
 }
