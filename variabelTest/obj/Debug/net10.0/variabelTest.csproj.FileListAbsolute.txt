@@ -1,0 +1,15 @@
+C:\Users\mceci\source\repos\variabelTest\variabelTest\bin\Debug\net10.0\variabelTest.exe
+C:\Users\mceci\source\repos\variabelTest\variabelTest\bin\Debug\net10.0\variabelTest.deps.json
+C:\Users\mceci\source\repos\variabelTest\variabelTest\bin\Debug\net10.0\variabelTest.runtimeconfig.json
+C:\Users\mceci\source\repos\variabelTest\variabelTest\bin\Debug\net10.0\variabelTest.dll
+C:\Users\mceci\source\repos\variabelTest\variabelTest\bin\Debug\net10.0\variabelTest.pdb
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\variabelTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\variabelTest.AssemblyInfoInputs.cache
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\variabelTest.AssemblyInfo.cs
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\variabelTest.csproj.CoreCompileInputs.cache
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\variabelTest.sourcelink.json
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\variabelTest.dll
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\refint\variabelTest.dll
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\variabelTest.pdb
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\variabelTest.genruntimeconfig.cache
+C:\Users\mceci\source\repos\variabelTest\variabelTest\obj\Debug\net10.0\ref\variabelTest.dll
